@@ -7,8 +7,8 @@
 
 			embeddedservice_bootstrap.init(
 				'00DdM000005UzRO',
-				'rthy',
-				'https://raptbottechnologiespvtltd24-dev-ed.develop.my.site.com/ESWrthy1747217117877',
+				'AppForGithub',
+				'https://raptbottechnologiespvtltd24-dev-ed.develop.my.site.com/ESWAppForGithub1747736563619',
 				{
 					scrt2URL: 'https://raptbottechnologiespvtltd24-dev-ed.develop.my.salesforce-scrt.com'
 				}
@@ -18,6 +18,6 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://raptbottechnologiespvtltd24-dev-ed.develop.my.site.com/ESWrthy1747217117877/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://raptbottechnologiespvtltd24-dev-ed.develop.my.site.com/ESWAppForGithub1747736563619/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 </body>
 </html>
